@@ -1,0 +1,172 @@
+@font-face {
+    font-family: "NunitoSans-Italic" ;
+    font-style: normal;
+    font-weight: 300;
+    src: local("NunitoSans_10pt-Italic"),
+             url("NunitoSans_10pt-Italic.woff") format("woff");
+  } 
+  .button {
+    font-family: NunitoSans-Italic, sans-serif;
+    font-size: 11px;
+    color: white;
+    text-transform: uppercase;
+  }
+  .hero-button__button-one {
+    font-family: NunitoSans-Italic, sans-serif;
+    font-size: 11px;
+    color: white;
+  }
+  .hero-button__button-two {
+    font-family: NunitoSans-Italic, sans-serif;
+    font-size: 11px;
+    color: white;
+  }
+
+@font-face {
+    font-family: "NunitoSans-Regular" ;
+    font-style: normal;
+    font-weight: 400;
+    src: local("NunitoSans_10pt-Regular"),
+             url("NunitoSans_10pt-Regular.woff") format("woff");
+  } 
+  .header-navigation_item a {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 11px;
+    text-decoration: none;
+    color: white;
+  }
+  .logo {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 11px;
+    color: #E3B873;
+  }
+  .header-contact {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 11px;
+    color: #E3B873;
+  }
+  .text {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 22px;
+    color: white;
+  }
+  .blok1-text_paragraph {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 14px;
+    color: white;
+    line-height: 1.5;
+  }
+  .description_text_paragraph {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 13px;
+    color: white;
+    line-height: 1.5;
+    margin-top: 9px;
+  }
+  .blok2_text_paragraph {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 18px;
+    color: #363636;
+    line-height: 2;
+  }
+  .chekbox_text {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 14px;
+  }
+  .blok2_end_item {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 14px;
+    color: #959595;
+    line-height: 1.8;
+  }
+  .blok2_button_submit {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 13px;
+    color: white;
+  }
+  .blok3_paragraph_item {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 14px;
+  }
+  .registration_paragraph {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 18px;
+    color: white;
+  }
+  .registration_text {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.5);
+    margin-top: 0;
+    width: 47px;
+    height: 20px;
+  }
+  .blok2_registration_text {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-top: 0;
+    width: 47px;
+    height: 20px;
+    margin-bottom: 0;
+  }
+  .registration_input {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 14px;
+    color: white; 
+    width: 231px;
+  }
+  .blok2_registration_input {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 14px;
+    width: 231px;
+    color: black;
+  }
+  .chekbox2_text {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 14px;
+    color: white;
+  }
+  .blok3_registration_button {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 13px;
+    color: white;
+  }
+  .blok3_discount_paragraph {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 18px;
+    color: #E3B873;
+  }
+  .blok4_item {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-bottom: 20px;
+  }
+  .blok5_paragraph {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 18px;
+    text-align: center;
+  }
+  .cards_content_paragraph {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 13px;
+    color: #959595;
+    line-height: 1.9;
+  }
+  .blok5_button_submit {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 13px;
+    color: white;
+  }
+  .footer-navigation_item a {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 11px;
+    text-decoration: none;
+    color: white;
+  }
+  .footer-contact {
+    font-family: NunitoSans-Regular, sans-serif;
+    font-size: 11px;
+    color: #E3B873;
+  }
